@@ -5,13 +5,8 @@
         "ciudad": "Almería"
     },
     {
-        "nombre": "Antonio",
-        "edad": 32,
-        "ciudad": "Granada"
-    },
-    {
         "nombre": "Raul",
-        "edad": 56,
-        "ciudad": "Toledo"
+        "edad": 50,
+        "ciudad": "Madrid"
     }
 ]
