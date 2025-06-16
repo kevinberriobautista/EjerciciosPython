@@ -8,5 +8,10 @@
         "nombre": "Raul",
         "edad": 50,
         "ciudad": "Madrid"
+    },
+    {
+        "nombre": "Antonio",
+        "edad": 60,
+        "ciudad": "Galicia"
     }
 ]
